@@ -1,0 +1,43 @@
+{
+	"personal": {
+		"name": {
+			"value": "Peter Szoke",
+			"visible": true,
+			"enabled": false,
+			"required": false,
+			"textAlign": "Center"
+		},
+
+		"birth": {
+			"value": "01.01.1979",
+			"visible": true,
+			"enabled": false,
+			"required": false,
+			"textAlign": "Left"
+		},
+
+		"address": {
+			"value": "Fedak Sari street 10/2",
+			"visible": true,
+			"enabled": true,
+			"required": true,
+			"textAlign": "Left"
+		},
+
+		"city": {
+			"value": "Budapest",
+			"visible": true,
+			"enabled": false,
+			"required": false,
+			"textAlign": "Left"
+		},
+
+		"zip": {
+			"value": "1182",
+			"visible": true,
+			"enabled": true,
+			"required": true,
+			"textAlign": "Right"
+		}
+	}
+}
