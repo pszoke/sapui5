@@ -1,0 +1,43 @@
+{
+	"personal": {
+		"name": {
+			"value": "Peter Szoke (GHub)",
+			"visible": true,
+			"enabled": false,
+			"required": false,
+			"textAlign": "Center"
+		},
+
+		"birth": {
+			"value": "01.01.1979 (GHub)",
+			"visible": true,
+			"enabled": false,
+			"required": false,
+			"textAlign": "Left"
+		},
+
+		"address": {
+			"value": "Fedak Sari street 10/2 (GHub)",
+			"visible": true,
+			"enabled": true,
+			"required": true,
+			"textAlign": "Left"
+ 		},
+
+		"city": {
+			"value": "Budapest (GHub)",
+			"visible": true,
+			"enabled": false,
+			"required": false,
+			"textAlign": "Left"
+		},
+
+		"zip": {
+			"value": "1182 (GHub)",
+			"visible": true,
+			"enabled": true,
+			"required": true,
+			"textAlign": "Right"
+		}
+	}
+}
